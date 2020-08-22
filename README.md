@@ -15,7 +15,7 @@ $ python3 /path/to/classes.py
 
 with tkinter, the GUI should look something like this:
 
-![Image of the interface](https://github.com/Kevinmuahahaha/Generic-CNN-Project-with-Tensorflow/blob/master/interface.png)
+![Image of the interface](https://github.com/Kevinmuahahaha/Generic-CNN-Project-with-Tensorflow/blob/master/assets/demo_interface.png)
 
 
 
@@ -30,12 +30,16 @@ Simply select "Train" and click "Run".
 
 Wait till the training is over.
 
+![Image of training session.](https://github.com/Kevinmuahahaha/Generic-CNN-Project-with-Tensorflow/blob/master/assets/demo_training.png)
+
 ## Predicting
 Select target directory containing images.
 
 Click "Test" and then "Run".
 
 Predictions are shown in the message box(top left).
+
+![Image of predicting](https://github.com/Kevinmuahahaha/Generic-CNN-Project-with-Tensorflow/blob/master/assets/demo_predicting.png)
 
 # Limitations
 - Images are not scaled dynamically. Sampling height/width should equal to that of training.
