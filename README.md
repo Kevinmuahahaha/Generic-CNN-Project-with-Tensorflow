@@ -1,6 +1,21 @@
 # Generic-CNN-Project-with-Tensorflow
 Classify images using CNN module from tensorflow.
 
+# Project setup
+## Install dependencies
+1. install python & tensorflow
+  - beware of GPU driver's version & tensorflow's version.
+  - **do make sure softwares are compatible**. See https://www.tensorflow.org/install/source#gpu
+2. and everything else
+  - Pillow
+  - matplotlib
+  - numpy
+## Running
+$ python3 /path/to/classes.py
+
+
+
+
 # Usage
 ## Prepare your dataset
 1. Each folder should contain multiple images.
