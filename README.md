@@ -9,11 +9,14 @@ Classify images using CNN module from tensorflow.
 
 ## Training
 Simply select "Train" and click "Run".
+
 Wait till the training is over.
 
 ## Predicting
 Select target directory containing images.
+
 Click "Test" and then "Run".
+
 Predictions are shown in the message box(top left).
 
 # Limitations
