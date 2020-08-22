@@ -13,6 +13,9 @@ Classify images using CNN module from tensorflow.
 ## Running
 $ python3 /path/to/classes.py
 
+with tkinter, the GUI should look something like this:
+
+![Image of the interface](https://github.com/Kevinmuahahaha/Generic-CNN-Project-with-Tensorflow/blob/master/interface.png)
 
 
 
